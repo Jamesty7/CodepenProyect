@@ -1,0 +1,116 @@
+body {
+    background-color: #abd6f6;
+    font-size: 20px;
+    font-family: "Work Sans", sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    color: #054e95;
+    text-align: justify;
+    line-height: 30px;
+  }
+  table {
+    border: 3px dashed rgb(23, 23, 153);
+  }
+  #titulo {
+    font-family: "Work Sans", sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    background-color: #0e88be;
+    color: white;
+    width: 22%;
+    text-align: center;
+    position: absolute;
+    margin-left: 37%;
+    margin-top: 25px;
+  }
+  .boton {
+    float: left;
+    font-family: "Merriweather", serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 12px;
+    background-color: #fc570a;
+    width: 150px;
+    text-align: center;
+    position: relative;
+    margin: 35px;
+    margin-top: 35px;
+  }
+  
+  h3 {
+    color: white;
+  }
+  
+  #requisitos {
+    text-decoration: underline;
+    border: solid;
+  }
+  .numeros {
+    background-color: blue;
+    text-align: center;
+    width: 50%;
+    color: white;
+    margin-left: 25%;
+  }
+  
+  #foto {
+    text-align: center;
+    width: 100%;
+  }
+  h2 {
+    padding: 5px;
+    border: 2px dashed #fc570a;
+    font-family: "Merriweather", serif;
+    font-weight: bold;
+    font-size: 20px;
+    font-style: normal;
+    background-color: white;
+    padding: 5px;
+    width: 15%;
+    text-align: center;
+  }
+  a:hover {
+    color: #0790f6;
+  }
+  a {
+    text-decoration: none;
+    color: #fc570a;
+  }
+  .encabezados {
+    padding: 5px;
+    border: 2px dashed #fc570a;
+    font-family: "Merriweather", serif;
+    font-weight: bold;
+    font-size: 25px;
+    font-style: normal;
+    width: 30%;
+    text-align: center;
+    position: relative;
+    margin-left: 33%;
+    margin-top: 50px;
+    background-color: white;
+  }
+  #primero {
+    text-align: center;
+  }
+  #frase {
+    font-family: "Work Sans", sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    background-color: #0e88be;
+    color: white;
+    width: 80%;
+    text-align: center;
+    position: absolute;
+    margin-left: 10%;
+    margin-top: 25px;
+    font-size: 20px;
+  }
+  .sponsor {
+    text-align: center;
+    margin-left: 2%;
+  }
+  img {
+    border: 2px solid #fc570a;
+  }
+  
